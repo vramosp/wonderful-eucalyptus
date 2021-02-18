@@ -214,7 +214,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: This is my site
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
